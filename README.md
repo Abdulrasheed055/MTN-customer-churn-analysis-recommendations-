@@ -1,6 +1,6 @@
 # MTN-customer-churn-analysis-recommendations-
 
-🎯 Objective
+Objective
 
 The goal of this project is to analyze customer churn patterns for MTN and identify key factors driving customer loss.
 This will help the business improve retention strategies, optimize services, and increase revenue.
@@ -8,16 +8,16 @@ This will help the business improve retention strategies, optimize services, and
 
 ---
 
-🛠 Project Process
+ Project Process
 
-1️⃣ Data Collection & Loading
+1 Data Collection & Loading
 
 Collected churn dataset (local dataset in CSV format).
 
 Loaded into Excel and cleaned for analysis.
 
 
-2️⃣ Data Cleaning
+2 Data Cleaning
 
 Removed duplicates and irrelevant columns.
 
@@ -26,7 +26,7 @@ Handled missing values.
 Standardized column names for consistency.
 
 
-3️⃣ Exploratory Data Analysis (EDA)
+3 Exploratory Data Analysis (EDA)
 
 Used Pivot Tables, Charts, and Filters to analyze:
 
@@ -40,7 +40,7 @@ Retention vs. lost customers.
 
 
 
-4️⃣ Key Metrics Calculated
+4 Key Metrics Calculated
 
 Total Customers: 951
 
@@ -55,7 +55,7 @@ Churn Rate = (Customers Lost / Total Customers) × 100
            = 29%
 
 
-5️⃣ Visualization
+5 Visualization
 
 Created bar charts, line graphs, and pie charts for churn trends.
 
@@ -65,7 +65,7 @@ Highlighted seasonal patterns (February peak churn, March sharp drop).
 
 ---
 
-🔍 Insights
+ Insights
 
 1. High churn rate of 29% — Significant number of customers are leaving.
 
@@ -97,6 +97,16 @@ Feedback Loop: Collect regular customer feedback to address pain points before t
 
 
 
+### 📊 Live Dashboard  Overview  
+-Here live preview of our transaction is displace in the dashboard ,the user have to refresh for this to be update
+
+![Sales Dashboard](https://github.com/Abdulrasheed055/MTN-customer-churn-analysis-recommendations-/blob/main/mtn.jpg)
+
+
+
+## Demo Video
+
+[▶️ YouTube Demo](https://youtu.be/YOUR_VIDEO_ID)
 ---
 
 📂 Project Files
