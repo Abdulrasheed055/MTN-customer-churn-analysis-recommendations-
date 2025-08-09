@@ -8,7 +8,7 @@ This will help the business improve retention strategies, optimize services, and
 
 ---
 
- # Project Process
+** Project Process**
 
 1 Data Collection & Loading
 
