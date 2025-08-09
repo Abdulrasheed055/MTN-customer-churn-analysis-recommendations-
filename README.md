@@ -8,7 +8,7 @@ This will help the business improve retention strategies, optimize services, and
 
 ---
 
-* Project Process *
+##  Project Process 
 
 1 Data Collection & Loading
 
@@ -65,7 +65,7 @@ Highlighted seasonal patterns (February peak churn, March sharp drop).
 
 ---
 
-# Insights
+## Insights
 
 1. High churn rate of 29% — Significant number of customers are leaving.
 
@@ -83,7 +83,7 @@ Highlighted seasonal patterns (February peak churn, March sharp drop).
 
 ---
 
-# 💡 Recommendations
+## 💡 Recommendations
 
 Customer Retention Program: Launch loyalty rewards, discounts, or service upgrades for high-risk customers.
 
