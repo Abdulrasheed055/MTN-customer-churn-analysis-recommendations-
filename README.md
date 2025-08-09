@@ -85,15 +85,15 @@ Highlighted seasonal patterns (February peak churn, March sharp drop).
 
 ## 💡 Recommendations
 
-Customer Retention Program: Launch loyalty rewards, discounts, or service upgrades for high-risk customers.
+1 Customer Retention Program: Launch loyalty rewards, discounts, or service upgrades for high-risk customers.
 
-Seasonal Campaign Analysis: Investigate February churn spike — check for service outages, competitor promotions, or billing issues.
+2 Seasonal Campaign Analysis: Investigate February churn spike — check for service outages, competitor promotions, or billing issues.
 
-Improve Service Quality: Focus on underperforming services with high churn.
+3 Improve Service Quality: Focus on underperforming services with high churn.
 
-Engagement Boost: Introduce campaigns to keep low-usage customers active.
+4 Engagement Boost: Introduce campaigns to keep low-usage customers active.
 
-Feedback Loop: Collect regular customer feedback to address pain points before they churn.
+5 Feedback Loop: Collect regular customer feedback to address pain points before they churn.
 
 
 
