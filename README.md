@@ -352,11 +352,6 @@ Regularly collect customer feedback and monitor satisfaction scores to identify 
 **Data Analyst | Business Intelligence | AI & Digital Innovation**
 
 📧 Email: aminuabdulrasheed055@gmail.com
-
-🌐 Portfolio: https://aminuabdulrasheedproject.netlify.app
-
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-
 📺 YouTube: https://www.youtube.com/@AminuAnalyst
 
 ---
